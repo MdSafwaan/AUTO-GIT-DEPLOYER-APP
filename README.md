@@ -32,9 +32,9 @@ Auto Git Deployer streamlines the process of going from a GitHub repository to a
 
 To get started with Auto Git Deployer, follow these steps:
 
-1. Install Poetry (if not already installed):pip install poetry
-2. Set up the project:poetry install
-3. Activate the Poetry shell:poetry shell
-4.  Run the Streamlit app:streamlit run app.py
+1. Install Poetry (if not already installed): pip install poetry
+2. Set up the project: poetry install
+3. Activate the Poetry shell: poetry shell
+4.  Run the Streamlit app: streamlit run app.py
    
 This will start the Auto Git Deployer application, and you can access it through your web browser.
